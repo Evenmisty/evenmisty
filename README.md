@@ -34,7 +34,7 @@
 
 
 ------------
-<br>
+
 ![Even GitHub stats](https://github-readme-stats.vercel.app/api?username=evenmisty&show_icons=true&theme=cobalt)
 
 ------------
