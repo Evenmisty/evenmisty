@@ -4,6 +4,7 @@
 
 
 <img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif" width="370px" align="right">
+
 📔 Cursando o 1° Módulo de Análise e Desenvolvimento de Sistemas - EAD ETEC. 
 <br>
 
