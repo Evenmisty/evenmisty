@@ -2,13 +2,18 @@
 
 ## Sobre
 
-<img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif">
+<img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif" width="370px" align="right">
 
-📔 Cursando o 1° Módulo de Análise e Desenvolvimento de Sistemas - EAD ETEC
+📔 Cursando o 1° Módulo de Análise e Desenvolvimento de Sistemas - EAD ETEC 
+<br>
 🍀 Estarei postando meus repositórios de diferentes cursos e linguagens para mostrar minha evolução e aprendizado.
+<br>
 🎀 Tenho interesse mais na parte de back end, porém desejo adquirir as habilidades de um Desenvolvedor Full Stack.
+<br>
 💕 Amor pela linguagem Java.
+<br>
 💻 Gosto de jogar, assistir anime, ouvir música e estudar.
+<br>
 
 | Estudando:   | 
 | :---------- |  
