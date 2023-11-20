@@ -10,7 +10,7 @@
 🍀 Estarei postando meus repositórios de diferentes cursos e linguagens para mostrar minha evolução e aprendizado.
 <br>
 <br>
-🎀 Tenho interesse mais na parte de back end, porém desejo adquirir as habilidades de um Desenvolvedor Full Stack.
+🎀 Tenho interesse no desenvolvimento voltado para back end, porém desejo adquirir as habilidades de um Desenvolvedor Full Stack.
 <br>
 <br>
 💕 Amor pela linguagem Java.
