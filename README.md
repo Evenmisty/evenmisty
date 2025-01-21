@@ -11,7 +11,7 @@
 🍀 Estarei postando meus repositórios de diferentes cursos e linguagens para mostrar minha evolução e aprendizado.
 <br>
 
-💕 Tenho interesse no desenvolvimento Mobile, utlizando as linguagens Java e Kotlin.
+💕 Tenho interesse no desenvolvimento Mobile utlizando as linguagens Java e Kotlin.
 <br>
 
 🎀 Atualmente sou desenvolvedora COBOL na empresa LinkedBy.
