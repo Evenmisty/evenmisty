@@ -1,20 +1,20 @@
-# Even 🌺🌷
+# Paloma Mendes 🌺🌷
 
 ## Sobre
 
 
 <img src="https://i.pinimg.com/originals/d0/bf/c7/d0bfc76da6de38f91bcec23efe85082a.gif" width="370px" align="right">
 
-📔 Cursando o 2° Módulo de Análise e Desenvolvimento de Sistemas - EAD ETEC. 
+📔 Cursando o 3° Módulo de Análise e Desenvolvimento de Sistemas - EAD ETEC. 
 <br>
 
 🍀 Estarei postando meus repositórios de diferentes cursos e linguagens para mostrar minha evolução e aprendizado.
 <br>
 
-🎀 Tenho interesse no desenvolvimento voltado para back end, porém desejo adquirir as habilidades de um Desenvolvedor Full Stack.
+💕 Tenho interesse no desenvolvimento Mobile, utlizando as linguagens Java e Kotlin.
 <br>
 
-💕 Amor pela linguagem Java.
+🎀 Atualmente sou desenvolvedora COBOL na empresa LinkedBy.
 <br>
 
 💻 Gosto de jogar, assistir anime, ouvir música e estudar.
